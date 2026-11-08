@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "arxiv2026-mic",
+  "versions": [
+    {
+      "commit": "53ae2d45d86dcd7777f989be276a268167e1b37c",
+      "tag": "",
+      "parsed_at": "2026-11-08T11:03:10.569387+00:00"
+    }
+  ]
+}
